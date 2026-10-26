@@ -1,0 +1,4 @@
+Project Brainstorming - Old Notes
+1. Look into learning SVN for version control (Update: switching to Git instead).
+2. Buy more USB drives for physical backups (Update: using cloud storage now).
+3. Reminder: This file is outdated. Delete this file before submitting the final assignment!
